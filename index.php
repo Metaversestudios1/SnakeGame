@@ -1,4 +1,6 @@
 <?php
+
+echo"ok";exit;
 /**
  * CodeIgniter
  *
